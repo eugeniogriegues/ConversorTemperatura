@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Convertitore Temperatura</string>
+    <string name="btnCelsius">a Celsius</string>
+    <string name="btnFahrenheit">a Fahrenheit</string>
+    <string name="btnConvertir">TRASFORMARSI</string>
+    <string name="inputVacio">VUOTO</string>
+</resources>

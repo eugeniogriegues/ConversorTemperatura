@@ -1,0 +1,8 @@
+<resources>
+
+    <string name="app_name">Conversor Temperatura</string>
+    <string name="btnCelsius">a Celsius</string>
+    <string name="btnConvertir">CONVERTIR</string>
+    <string name="inputVacio">VACIO</string>
+    <string name="btnFahrenheit">a Fahrenheit</string>
+</resources>
